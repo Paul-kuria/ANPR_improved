@@ -1,0 +1,8 @@
+# Environments
+.venv
+.env 
+venv/
+env/
+
+# Other files/folders
+**/__pycache__
